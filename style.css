@@ -383,7 +383,7 @@ body {
 .about-cta {
   padding-top: 80px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 /* Remove old classes that no longer exist */
